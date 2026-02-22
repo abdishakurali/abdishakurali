@@ -73,10 +73,6 @@ const abdishakuur = {
 <img width="49%" src="https://github-readme-stats.vercel.app/api?username=abdishakurali&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d0d0d&title_color=7c3aed&icon_color=7c3aed&text_color=ffffff&rank_icon=github" />
 <img width="49%" src="https://streak-stats.demolab.com?user=abdishakurali&theme=tokyonight&hide_border=true&background=0d0d0d&ring=7c3aed&fire=a855f7&currStreakLabel=7c3aed" />
 
-<br/><br/>
-
-<img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abdishakurali&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d0d0d&title_color=7c3aed&text_color=ffffff" />
-
 </div>
 
 <br/>
@@ -90,7 +86,7 @@ const abdishakuur = {
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/abdishakurali/abdishakurali/output/github-contribution-grid-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/abdishakurali/abdishakurali/output/github-contribution-grid-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/abdishakurali/abdishakurali/output/github-contribution-grid-snake-dark.svg" />
+  <img alt="contribution-snake" src="https://raw.githubusercontent.com/abdishakurali/abdishakurali/output/github-contribution-grid-snake-dark.svg" />
 </picture>
 
 </div>
