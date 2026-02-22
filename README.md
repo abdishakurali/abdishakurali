@@ -1,43 +1,66 @@
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=28&pause=1000&color=3B82F6&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Abdishakuur+Ali+%F0%9F%91%8B;Full+Stack+Developer;Building+for+the+web+%26+beyond)](https://git.io/typing-svg)
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=120&section=header"/>
 
-<p>Crafting clean, scalable web applications with modern tools — passionate about JavaScript, Python, and turning ideas into reality.</p>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=32&duration=3000&pause=1000&color=7C3AED&center=true&vCenter=true&multiline=true&width=700&height=100&lines=Abdishakuur+Ali;Full+Stack+Developer+%7C+Problem+Solver;Building+the+future%2C+one+commit+at+a+time.)](https://git.io/typing-svg)
+
+<br/>
+
+![Profile Views](https://komarev.com/ghpvc/?username=abdishakurali&style=for-the-badge&color=7c3aed&labelColor=0d0d0d&label=PROFILE+VIEWS)
 
 </div>
+
+<br/>
+
+```typescript
+const abdishakuur = {
+  name:       "Abdishakuur Ali",
+  role:       "Full Stack Developer",
+  languages:  ["TypeScript", "JavaScript", "Python"],
+  stack: {
+    frontend: ["React", "Next.js", "Tailwind CSS"],
+    backend:  ["Node.js", "Express", "FastAPI"],
+    database: ["PostgreSQL", "MongoDB", "Redis"],
+    devops:   ["Docker", "Git", "CI/CD"],
+  },
+  currentlyBuilding: "Something worth open-sourcing 🚀",
+  philosophy: "Clean code is not written. It is rewritten.",
+};
+```
+
+<br/>
 
 ---
 
-### 🧰 Tech Stack
-
 <div align="center">
 
-**Languages**
+### ⚡ Tech Arsenal
 
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+<br/>
 
-**Frontend**
+![TypeScript](https://img.shields.io/badge/TypeScript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
+![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 
-![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
+![React](https://img.shields.io/badge/React-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-black?style=for-the-badge&logo=next.js&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/Tailwind-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
-**Backend**
+![Node.js](https://img.shields.io/badge/Node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
+![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
 
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
-![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white)
 
-**Database & Tools**
-
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
 </div>
+
+<br/>
 
 ---
 
@@ -45,21 +68,55 @@
 
 <div align="center">
 
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=abdishakurali&show_icons=true&theme=default&hide_border=true&rank_icon=github&include_all_commits=true" />
-<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abdishakurali&layout=compact&hide_border=true&theme=default" />
+<br/>
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=abdishakurali&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d0d0d&title_color=7c3aed&icon_color=7c3aed&text_color=ffffff&rank_icon=github" />
+<img width="49%" src="https://streak-stats.demolab.com?user=abdishakurali&theme=tokyonight&hide_border=true&background=0d0d0d&ring=7c3aed&fire=a855f7&currStreakLabel=7c3aed" />
+
+<br/><br/>
+
+<img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abdishakurali&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d0d0d&title_color=7c3aed&text_color=ffffff" />
 
 </div>
+
+<br/>
+
+---
+
+### 🐍 Contribution Snake
 
 <div align="center">
 
-![GitHub Streak](https://streak-stats.demolab.com?user=abdishakurali&theme=default&hide_border=true)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/abdishakurali/abdishakurali/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/abdishakurali/abdishakurali/output/github-contribution-grid-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/abdishakurali/abdishakurali/output/github-contribution-grid-snake-dark.svg" />
+</picture>
 
 </div>
+
+<br/>
 
 ---
 
 <div align="center">
 
-*"First, solve the problem. Then, write the code." — John Johnson*
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=abdishakurali&bg_color=0d0d0d&color=7c3aed&line=a855f7&point=ffffff&area=true&hide_border=true" />
+
+</div>
+
+<br/>
+
+---
+
+<div align="center">
+
+> *"Any fool can write code that a computer can understand.*
+> *Good programmers write code that humans can understand."*
+> — Martin Fowler
+
+<br/>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=100&section=footer"/>
 
 </div>
