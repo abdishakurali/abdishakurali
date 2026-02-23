@@ -2,18 +2,6 @@
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=120&section=header"/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=32&duration=3000&pause=1000&color=7C3AED&center=true&vCenter=true&multiline=true&width=700&height=100&lines=Abdishakuur+Ali;Full+Stack+Developer+%7C+Problem+Solver;Building+the+future%2C+one+commit+at+a+time.)](https://git.io/typing-svg)
-
-<br/>
-
-<br/> 
-
-![Profile Views](https://komarev.com/ghpvc/?username=abdishakurali&style=for-the-badge&color=7c3aed&labelColor=0d0d0d&label=PROFILE+VIEWS)
-
-</div>
-
-<br/>
-
 ```typescript
 const abdishakuur = {
   name:       "Abdishakuur Ali",
