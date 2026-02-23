@@ -2,19 +2,18 @@
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=120&section=header"/>
 
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=7C3AED&center=true&vCenter=true&width=500&lines=Full+Stack+Developer;TypeScript+%7C+Python+%7C+Node.js)](https://git.io/typing-svg)
+
+</div>
+
+<br/>
+
 ```typescript
-const abdishakuur = {
-  name:       "Abdishakuur Ali",
-  role:       "Full Stack Developer",
-  languages:  ["TypeScript", "JavaScript", "Python"],
-  stack: {
-    frontend: ["React", "Next.js", "Tailwind CSS"],
-    backend:  ["Node.js", "Express", "FastAPI"],
-    database: ["PostgreSQL", "MongoDB", "Redis"],
-    devops:   ["Docker", "Git", "CI/CD"],
-  },
-  currentlyBuilding: "Something worth open-sourcing 🚀",
-  philosophy: "Clean code is not written. It is rewritten.",
+const stack = {
+  frontend: ["React", "Next.js", "Tailwind CSS"],
+  backend:  ["Node.js", "Express", "FastAPI"],
+  database: ["PostgreSQL", "MongoDB", "Redis"],
+  devops:   ["Docker", "Git", "CI/CD"],
 };
 ```
 
@@ -23,10 +22,6 @@ const abdishakuur = {
 ---
 
 <div align="center">
-
-### ⚡ Tech Arsenal
-
-<br/>
 
 ![TypeScript](https://img.shields.io/badge/TypeScript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
@@ -42,11 +37,7 @@ const abdishakuur = {
 
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white)
-
 ![Docker](https://img.shields.io/badge/Docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
-![Git](https://img.shields.io/badge/Git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
 </div>
 
@@ -54,11 +45,7 @@ const abdishakuur = {
 
 ---
 
-### 📊 GitHub Stats
-
 <div align="center">
-
-<br/>
 
 <img width="49%" src="https://github-readme-stats.vercel.app/api?username=abdishakurali&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d0d0d&title_color=7c3aed&icon_color=7c3aed&text_color=ffffff&rank_icon=github" />
 <img width="49%" src="https://streak-stats.demolab.com?user=abdishakurali&theme=tokyonight&hide_border=true&background=0d0d0d&ring=7c3aed&fire=a855f7&currStreakLabel=7c3aed" />
@@ -67,30 +54,20 @@ const abdishakuur = {
 
 <br/>
 
- 
-
-<br/>
-
 ---
 
 <div align="center">
 
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=abdishakurali&bg_color=0d0d0d&color=7c3aed&line=a855f7&point=ffffff&area=true&hide_border=true" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/abdishakurali/abdishakurali/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/abdishakurali/abdishakurali/output/github-contribution-grid-snake.svg" />
+  <img alt="contribution-snake" src="https://raw.githubusercontent.com/abdishakurali/abdishakurali/output/github-contribution-grid-snake-dark.svg" />
+</picture>
 
 </div>
 
 <br/>
 
----
-
 <div align="center">
-
-> *"Any fool can write code that a computer can understand.*
-> *Good programmers write code that humans can understand."*
-> — Martin Fowler
-
-<br/>
-
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=100&section=footer"/>
-
 </div>
